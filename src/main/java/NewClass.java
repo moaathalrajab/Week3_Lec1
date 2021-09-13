@@ -5,7 +5,9 @@ public class NewClass {
        for(int i=0; i< arr.length; i++){
             arr [i] = 10 + i;
        }
-       // access their values
+       // access their values 
+       
+       
        for(int i=0; i< arr.length; i++){
            System.out.println("Arr["+i+"] : "+ arr [i]);
        }
